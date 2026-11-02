@@ -17,6 +17,5 @@ GitHub → repository Settings → Pages → Build and deployment → Deploy fro
 Update files and commit changes to main to publish updates.
 
 ## Notes
-- No private telephone number is included in the webpage or public résumé.
 - Email and GitHub are public contact methods.
 - Project links can be added when relevant demos and repositories are ready.
